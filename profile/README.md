@@ -10,4 +10,4 @@ O projeto "WhyDisconnected" é uma iniciativa do Instituto Federal de Educação
 - Patentear o aplicativo de mensagens instantâneas off-line desenvolvido e entregá-lo à comunidade para avaliação de seu impacto.
 
 ## Contato
-Para mais informações, entre em contato com [Jeferson Breno Negrão Leite](https://github.com/Jef1976) em jeferson.leite@ifpa.edu.br
+Para mais informações, entre em contato com prof. *[Jeferson Breno Negrão Leite](https://github.com/Jef1976)* em jeferson.leite@ifpa.edu.br
